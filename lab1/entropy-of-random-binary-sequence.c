@@ -42,7 +42,7 @@ int main(int argc, char *argv[]) {
 
     double onesPerTotal = (double)counter0 / (double)(sequence_size * 8);
     double zerosPerTotal = (double)1 - onesPerTotal;
-    double entropy = - (onesPerTotal * log2l(onesPerTotal) - zerosPerTotal * log2l(zerosPerTotal));
+    double entropy = - (onesPerTotal * log2(onesPerTotal) - zerosPerTotal * log2(zerosPerTotal));
 
     printf("onesPerTotal: %f, zerosPerTotal: %f, Entropy: %f \n", onesPerTotal, zerosPerTotal, entropy);
 

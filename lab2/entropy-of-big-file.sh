@@ -3,7 +3,7 @@
 # Debugging purposes
 set -euxo pipefail
 
-dd if=/dev/urandom of=sample.txt bs=32M count=4 iflag=fullblock
+dd if=/dev/urandom of=sample.txt bs=64M count=4 iflag=fullblock
 
 start=`date +%s`
 

@@ -1,4 +1,9 @@
-Range: 1 - 400000
+Test 1
 1 interval: 70 s
 4 intervals: 43 s
 39% improvement
+
+Test 2
+6 28 496 8128 400000
+100000
+6 28 496 8128 RUNTIME: 55 s

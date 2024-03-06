@@ -1,0 +1,11 @@
+Test 32 MB:
+ Nr ones: 536901841, Nr zeros: 536839983 
+onesPerTotal: 0.499971, zerosPerTotal: 0.500029, Entropy: 0.000026 
+RUNTIME: 6
+
+Test 64 MB:
+ Nr ones: 1073736001, Nr zeros: 1073747647 
+onesPerTotal: 0.500003, zerosPerTotal: 0.499997, Entropy: -0.000002 
+RUNTIME: 14
+
+As expected, the entropy matches the increase in file size.

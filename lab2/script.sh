@@ -19,12 +19,12 @@ FIRST_HOP=`expr $lowerEnd + $INCREMENT_JOBS`
 SECOND_HOP=`expr $FIRST_HOP + $INCREMENT_JOBS`
 THIRD_HOP=`expr $SECOND_HOP + $INCREMENT_JOBS`
 
-# ./perfect-number-search.o $lowerEnd $INCREMENT_JOBS &
-# ./perfect-number-search.o `expr $FIRST_HOP` `expr $SECOND_HOP - 1` &
-# ./perfect-number-search.o `expr $SECOND_HOP` `expr $THIRD_HOP - 1` &
-# ./perfect-number-search.o `expr $THIRD_HOP` $upperEnd &
+./perfect-number-search.o $lowerEnd $INCREMENT_JOBS &
+./perfect-number-search.o `expr $FIRST_HOP` `expr $SECOND_HOP - 1` &
+./perfect-number-search.o `expr $SECOND_HOP` `expr $THIRD_HOP - 1` &
+./perfect-number-search.o `expr $THIRD_HOP` $upperEnd &
 
-./perfect-number-search.o $lowerEnd $upperEnd &
+# ./perfect-number-search.o $lowerEnd $upperEnd &
 
 wait
 
