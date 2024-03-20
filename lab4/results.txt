@@ -1,0 +1,8 @@
+Threads: 1, Execution time: 0.000340 seconds
+Threads: 2, Execution time: 0.000743 seconds
+Threads: 3, Execution time: 0.000722 seconds
+Threads: 4, Execution time: 0.000668 seconds
+Threads: 8, Execution time: 0.001143 seconds
+Threads: 16, Execution time: 0.003423 seconds
+Threads: 32, Execution time: 0.003613 seconds
+Threads: 64, Execution time: 0.003742 seconds
