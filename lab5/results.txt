@@ -1,0 +1,110 @@
+Count of digit 0: 892555
+Count of digit 1: 1385706
+Count of digit 2: 964377
+Count of digit 3: 894919
+Count of digit 4: 894863
+Count of digit 5: 890884
+Count of digit 6: 888765
+Count of digit 7: 891778
+Count of digit 8: 890657
+Count of digit 9: 889657
+Execution time: 0.135634 seconds
+Count of digit 0: 891186
+Count of digit 1: 1381403
+Count of digit 2: 964745
+Count of digit 3: 896597
+Count of digit 4: 894052
+Count of digit 5: 890973
+Count of digit 6: 892838
+Count of digit 7: 889994
+Count of digit 8: 890059
+Count of digit 9: 891089
+Execution time: 0.713220 seconds
+Count of digit 0: 889714
+Count of digit 1: 1382045
+Count of digit 2: 964749
+Count of digit 3: 897924
+Count of digit 4: 895127
+Count of digit 5: 891656
+Count of digit 6: 889005
+Count of digit 7: 891931
+Count of digit 8: 889700
+Count of digit 9: 890440
+Execution time: 0.506348 seconds
+Count of digit 0: 888953
+Count of digit 1: 1385163
+Count of digit 2: 963892
+Count of digit 3: 895682
+Count of digit 4: 894223
+Count of digit 5: 891595
+Count of digit 6: 890029
+Count of digit 7: 892659
+Count of digit 8: 890177
+Count of digit 9: 890013
+Execution time: 0.571630 seconds
+Count of digit 0: 890389
+Count of digit 1: 1383215
+Count of digit 2: 965483
+Count of digit 3: 895319
+Count of digit 4: 894720
+Count of digit 5: 891344
+Count of digit 6: 890902
+Count of digit 7: 890225
+Count of digit 8: 889111
+Count of digit 9: 891415
+Execution time: 0.329629 seconds
+Count of digit 0: 891071
+Count of digit 1: 1381726
+Count of digit 2: 963531
+Count of digit 3: 896185
+Count of digit 4: 894805
+Count of digit 5: 891199
+Count of digit 6: 891399
+Count of digit 7: 890950
+Count of digit 8: 889998
+Count of digit 9: 890939
+Execution time: 0.126538 seconds
+Count of digit 0: 889071
+Count of digit 1: 1383225
+Count of digit 2: 965816
+Count of digit 3: 897463
+Count of digit 4: 892526
+Count of digit 5: 890677
+Count of digit 6: 890345
+Count of digit 7: 890705
+Count of digit 8: 891432
+Count of digit 9: 891881
+Execution time: 0.199508 seconds
+Count of digit 0: 890800
+Count of digit 1: 1383420
+Count of digit 2: 964420
+Count of digit 3: 894665
+Count of digit 4: 893586
+Count of digit 5: 891570
+Count of digit 6: 889861
+Count of digit 7: 891216
+Count of digit 8: 890546
+Count of digit 9: 891153
+Execution time: 0.151320 seconds
+Count of digit 0: 888682
+Count of digit 1: 1384979
+Count of digit 2: 966326
+Count of digit 3: 894152
+Count of digit 4: 894698
+Count of digit 5: 891239
+Count of digit 6: 890596
+Count of digit 7: 890266
+Count of digit 8: 890730
+Count of digit 9: 890973
+Execution time: 0.389774 seconds
+Count of digit 0: 891505
+Count of digit 1: 1384357
+Count of digit 2: 963212
+Count of digit 3: 895014
+Count of digit 4: 894869
+Count of digit 5: 889958
+Count of digit 6: 890105
+Count of digit 7: 891950
+Count of digit 8: 891266
+Count of digit 9: 890253
+Execution time: 0.416069 seconds
